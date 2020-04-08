@@ -1,0 +1,42 @@
+body {
+    margin: 0 auto;
+    background-image: url(https://i.imgur.com/qNNvHQT.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: hidden;
+}
+
+/* 🚀Header Styles🚀 */
+
+.HeaderContainer {
+    background-color: black;
+    width: 20%;
+    color: white;
+}
+
+.HeaderContainer h2 {
+    padding: 1% 1%;
+    margin-left: 1%;
+}
+
+
+/* 🚀Footer Styles🚀 */
+
+.FooterContainer {
+    display: flex;
+    border: 1px solid black;
+    color: white;
+    padding: 1% 0.5%;
+    background-color: black;
+    margin-top: 42%;
+}
+
+.FooterContainer img {
+    width: 3%;
+    height: 3%;
+    align-items: center;
+    padding-right: 1%;
+}
+
+
+
